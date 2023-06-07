@@ -6,7 +6,7 @@
 
 ## Objetivo del Proyecto
 
-[El objetivo será la optimización y mejora de la recuperación de impagos y clientes con una edad antigua en la deuda, constituida entre los 0 a 120 días, de acuerdo a su fase (Cobro amistoso – Recobro no amistoso – Fase 3 – Retención). La importancia del proyecto radica en ]
+[El objetivo será la optimización y mejora de la recuperación de impagos y clientes con una edad antigua en la deuda, constituida entre los 0 a 120 días, de acuerdo a su fase (Cobro amistoso – Recobro no amistoso – Fase 3 – Retención).]
 
 ## Alcance del Proyecto
 
