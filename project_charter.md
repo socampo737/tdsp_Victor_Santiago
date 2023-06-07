@@ -36,9 +36,6 @@
 - [Victor Hugo Angel Ochoa - Data Science]
 - [Santiago Ocampo Salazar - Data Analyst Senior]
 
-## Presupuesto
-
-[Descripción del presupuesto asignado al proyecto]
 
 ## Stakeholders
 
